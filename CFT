@@ -1,0 +1,10 @@
+cft-iac/
+├── applications/             
+│   ├── app1/                 
+│   │   ├── parameters/             
+│   │   │   └── ecs.json       
+│   ├── app2/                 
+│   │   ├── parameters/           
+│   │   │   └── ecs.json       
+├── global/                   
+│   ├── alb-global.yaml 
